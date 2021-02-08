@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "bulma-rails", "~> 0.6.1"
 gem 'devise', '~> 4.3'
-gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'carrierwave', '~> 1.3'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem "mini_magick"
 gem 'impressionist', '~> 1.6'
